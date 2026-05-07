@@ -37,7 +37,7 @@ export function UpdateUserModal() {
                 <form onSubmit={onSubmit} className="flex flex-col gap-4">
                   <TextField className="w-full" name="name" type="text">
                     <Label>Name</Label>
-                    <Input placeholder="Enter your name" />
+                    <Input placeholder="Enter your name " />
                   </TextField>
                   <TextField className="w-full" name="image" type="url">
                     <Label>Image URL</Label>
