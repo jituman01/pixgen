@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { BiDownload } from "react-icons/bi";
 import { FaHeart } from "react-icons/fa6";
+
 const PhotoCard = ({ photo }) => {
   console.log(photo);
   
