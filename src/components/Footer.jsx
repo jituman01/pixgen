@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Footer = () => {
   return (
-    <footer className="relative mt-24">
+    <footer className="relative mt-24 bg-pink-100">
       <div className="mt-13 h-px w-full bg-linear-to-r from-transparent via-gray-300 to-transparent dark:via-white/10" />
 
       {/* Background Layer */}

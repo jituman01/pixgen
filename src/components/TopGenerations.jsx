@@ -11,7 +11,7 @@ const TopGenerations = async () => {
 
   return (
     <div>
-      <h1 className="text-2xl font-bold ">Top Generation</h1>
+      <h1 className="text-2xl font-bold mb-5 text-purple-700">Top Generation</h1>
 
       <div className="grid grid-cols-4 gap-4">
         {

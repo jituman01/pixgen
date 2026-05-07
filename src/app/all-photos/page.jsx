@@ -13,7 +13,7 @@ const AllPhotosPage = async ({searchParams}) => {
     return (
         <div>
 
-            <h1 className="text-2xl font-bold m-4">All Photos</h1>
+            <h1 className="text-2xl font-bold my-6 mx-4 text-purple-600">All Photos</h1>
 
             <Category/>
 
